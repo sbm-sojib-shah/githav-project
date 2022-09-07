@@ -1,0 +1,70 @@
+h1{
+    text-align:center;
+    
+    
+}
+
+
+.academic{
+    text-align:center;
+    color:orange ;
+    
+}
+
+
+
+
+
+
+
+
+div{
+    
+    text-align:left;
+    
+
+   color: yellow ;
+    background: gray ;
+    
+    
+    
+    
+    
+    
+}
+.pi{
+    
+    width: 1000px;
+    height: 400px;
+    background:blue;
+}
+.para{
+    
+    
+   color: black;
+    width: 1000px;
+    height:130px;
+    
+    background:green;
+ 
+}
+h2{
+    
+    text-align:center;
+    
+    background: orange;
+    
+    width: 1000px;
+    height: 400px;
+    
+}
+
+.link{
+    width:1000;
+    height:300;
+    text-align:center;
+    background: white;
+   position: row;
+    padding: 0 50%;
+    
+}
